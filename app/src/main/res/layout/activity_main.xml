@@ -27,7 +27,7 @@
                     android:text="Welcome to Online Shopping"
                     android:layout_width="match_parent"
                     android:textColor="@color/White"
-                    android:textSize="20sp"
+                    android:textSize="20dp"
                     android:layout_height="wrap_content" />
                 <ImageView
                     android:layout_marginTop="10dp"
@@ -48,7 +48,7 @@
                 <TextView
                     android:id="@+id/signintxt1"
                     android:text="Sign In"
-                    android:textSize="30sp"
+                    android:textSize="30dp"
                     android:gravity="center"
                     android:textColor="@color/colorPrimaryDark"
                     android:layout_width="match_parent"
